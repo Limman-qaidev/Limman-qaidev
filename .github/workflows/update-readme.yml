@@ -33,7 +33,7 @@ jobs:
             - 📖 Author: *Exploring Machine Learning in Banking* (2018).
             - 🧠 Interests: Model Risk, Conditional VaR, Liquidity Risk & Generative AI.
             - 📫 Contact: jonathan.salgado@yourdomain.com
-          # Pie de página con enlaces de contacto
+          # Pie de página con enlaces de contacto 
           footer: |
             ## 📫 Connect with Me  
             [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jonathansalgado)  
