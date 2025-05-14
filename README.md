@@ -6,10 +6,10 @@
 <div align="center">
   <!-- Contact Badges -->
   <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:salgado.n.jonathan@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Email Badge" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Email logo" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Limman-qaidev.Limman-qaidev" alt="Visitor Count" /> <!-- Visitor badge demonstrates engagement :contentReference[oaicite:1]{index=1} -->
 </div>
