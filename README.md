@@ -1,47 +1,74 @@
-<!-- Headline -->
-<h1 align="center">Jonathan Salgado Nieto</h1>
-<p align="center">
-  Model Risk & Market Risk Specialist @ Banco Santander • Author of “Exploring Machine Learning in Banking”
-</p>
-
----
-
-## 👨‍🔬 About Me
-- 🔭 **Current**: Designing and validating market-risk models with Python, PyMC3 & TensorFlow.  
-- 📖 **Author**: *Exploring Machine Learning in Banking* (2018).  
-- 🧠 **Interests**: Model Risk, Conditional VaR, Liquidity Risk & Generative AI.  
-- 📫 **Contact**: salgado.n.jonathan@gmail.com
-
----
-
-## 🚀 Pinned Projects
-- **Plant Species Classifier**: ResNet50 fine-tuned on PlantVillage (38 classes).  
-- **Momentum Trading Algo**: Python backtest of 90-day momentum strategy (Sharpe > 1.2).  
-- **GDPR RAG Chatbot**: FAISS + GPT-3.5 for regulatory Q&A.  
-- **BERT Sentiment Analysis**: Fine-tuned on hotel reviews (F1 = 0.89).  
-- **Bias Detection in GPT-2**: Gender-bias quantification & mitigation.  
-- **ML KPI Dashboard**: Streamlit dashboard with training & production metrics.
-
----
-
-## 🛠 Core Skills
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red?logo=pytorch)  
-![Docker](https://img.shields.io/badge/Docker-24.x-blue?logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-blue?logo=kubernetes)
-
----
-
-## 📊 GitHub Stats
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Limman-qaidev&show_icons=true&locale=en" alt="GitHub stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limman-qaidev&locale=en" alt="GitHub streak" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving hand animation" />
+</div> <!-- The animated header creates an immediate “hook” for visitors :contentReference[oaicite:0]{index=0} -->
+
+<div align="center">
+  <!-- Contact Badges -->
+  <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:salgado.n.jonathan@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Email Badge" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Limman-qaidev.Limman-qaidev" alt="Visitor Count" /> <!-- Visitor badge demonstrates engagement :contentReference[oaicite:1]{index=1} -->
 </div>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87)  
-[![GitHub](https://img.shields.io/badge/GitHub-Limman--qaidev-black?logo=github)](https://github.com/Limman-qaidev)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:salgado.n.jonathan@gmail.com)
+<h2 align="center">Hi 👋, I’m Jonathan Salgado Nieto</h2> <!-- A friendly but professional greeting :contentReference[oaicite:2]{index=2} -->
+
+<p align="center">
+  <em>Model Risk & Market Risk Specialist @ Banco Santander<br />
+  Aspiring AI/ML & Quantitative Developer</em>
+</p> <!-- Concise role and aspiration to set expectations  -->
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limman-qaidev&show_icons=true&theme=dracula" alt="GitHub Stats" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Limman-qaidev&layout=compact&theme=dracula" alt="Top Languages" height="130" />
+</div> <!-- Dynamic stats and languages chart highlight activity and skills   -->
+
+---
+
+## 🔭 Pinned Projects  
+> *Work in progress – more to come!* <!-- Placeholders set expectations and invite revisit :contentReference[oaicite:6]{index=6} -->
+<div align="left">
+- Coming Soon: **Plant Species Classifier**  
+- Coming Soon: **Momentum Trading Algo**  
+- Coming Soon: **GDPR RAG Chatbot**  
+- Coming Soon: **BERT Sentiment Analysis**  
+- Coming Soon: **Bias Detection in GPT-2**  
+- Coming Soon: **ML KPI Dashboard**  
+</div>
+
+---
+
+## 🛠 Core Skills & Tools  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python Badge" height="30" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow" alt="TensorFlow Badge" height="30" />
+  <img src="https://img.shields.io/badge/PyTorch-1.x-red?logo=pytorch" alt="PyTorch Badge" height="30" />
+  <img src="https://img.shields.io/badge/Docker-24.x-blue?logo=docker" alt="Docker Badge" height="30" />
+  <img src="https://img.shields.io/badge/Kubernetes-1.27-blue?logo=kubernetes" alt="Kubernetes Badge" height="30" />
+</div> <!-- Badges provide a clean visual summary of your tech stack  -->
+
+---
+
+## 📫 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" height="30" />
+  </a>
+  <a href="mailto:salgado.n.jonathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" height="30" />
+  </a>
+</div> <!-- Clean, uniform badges for contact links improve UX :contentReference[oaicite:8]{index=8} -->
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zzetao/awesome-github-profile-readme/master/assets/undraw/undraw_coding_cats.svg" alt="Coding Illustration" height="200" />
+</div> <!-- A friendly illustration adds personality without clutter :contentReference[oaicite:9]{index=9} -->
