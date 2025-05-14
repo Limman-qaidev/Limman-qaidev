@@ -1,0 +1,41 @@
+name: Update Profile README
+
+on:
+  # Ejecutar diariamente a medianoche (UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  # Permite disparar manualmente desde la pestaña “Actions”
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Descarga el contenido del repo
+      - uses: actions/checkout@v3  # :contentReference[oaicite:0]{index=0}
+
+      # 2. Ejecuta la acción que reemplaza tu README.md
+      - name: Update GitHub Profile README
+        uses: theboi/github-update-readme@v1.0  # :contentReference[oaicite:1]{index=1}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # :contentReference[oaicite:2]{index=2}
+        with:
+          # Texto que se inyecta al principio del README
+          header: |
+            <h1 align="center">Jonathan Salgado Nieto</h1>
+            <p align="center">
+              Model Risk & Market Risk Specialist @ Banco Santander • Author of “Exploring Machine Learning in Banking”
+            </p>
+          # Texto secundario tras los proyectos anclados
+          subhead: |
+            ## 👨‍🔬 About Me
+            - 🔭 Currently: Designing market-risk models with Python, PyMC3 & TensorFlow.
+            - 📖 Author: *Exploring Machine Learning in Banking* (2018).
+            - 🧠 Interests: Model Risk, Conditional VaR, Liquidity Risk & Generative AI.
+            - 📫 Contact: jonathan.salgado@yourdomain.com
+          # Pie de página con enlaces de contacto
+          footer: |
+            ## 📫 Connect with Me  
+            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jonathansalgado)  
+            [![GitHub](https://img.shields.io/badge/GitHub-Limman--qaidev-black?logo=github)](https://github.com/Limman-qaidev)  
+            [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?logo=researchgate)](https://researchgate.net/profile/Jonathan_Salgado_Nieto)
