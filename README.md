@@ -42,6 +42,6 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jonathansalgado)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/jonathan-salgado-nieto-67a88b87)  
 [![GitHub](https://img.shields.io/badge/GitHub-Limman--qaidev-black?logo=github)](https://github.com/Limman-qaidev)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?logo=researchgate)](https://researchgate.net/profile/Jonathan_Salgado_Nieto)
