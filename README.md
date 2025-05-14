@@ -7,19 +7,19 @@
 ---
 
 ## 👨‍🔬 About Me
-- 🔭 **Current**: Designing and validating market‐risk models with Python, PyMC3 & TensorFlow.  
+- 🔭 **Current**: Designing and validating market-risk models with Python, PyMC3 & TensorFlow.  
 - 📖 **Author**: *Exploring Machine Learning in Banking* (2018).  
 - 🧠 **Interests**: Model Risk, Conditional VaR, Liquidity Risk & Generative AI.  
-- 📫 **Contact**: jonathan.salgado@yourdomain.com
+- 📫 **Contact**: salgado.n.jonathan@gmail.com
 
 ---
 
 ## 🚀 Pinned Projects
-- **Plant Species Classifier**: ResNet50 fine‐tuned on PlantVillage (38 classes).  
-- **Momentum Trading Algo**: Python backtest of 90‐day momentum strategy (Sharpe > 1.2).  
+- **Plant Species Classifier**: ResNet50 fine-tuned on PlantVillage (38 classes).  
+- **Momentum Trading Algo**: Python backtest of 90-day momentum strategy (Sharpe > 1.2).  
 - **GDPR RAG Chatbot**: FAISS + GPT-3.5 for regulatory Q&A.  
-- **BERT Sentiment Analysis**: Fine‐tuned on hotel reviews (F1 = 0.89).  
-- **Bias Detection in GPT-2**: Gender‐bias quantification & mitigation.  
+- **BERT Sentiment Analysis**: Fine-tuned on hotel reviews (F1 = 0.89).  
+- **Bias Detection in GPT-2**: Gender-bias quantification & mitigation.  
 - **ML KPI Dashboard**: Streamlit dashboard with training & production metrics.
 
 ---
@@ -42,6 +42,6 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/jonathan-salgado-nieto-67a88b87)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87)  
 [![GitHub](https://img.shields.io/badge/GitHub-Limman--qaidev-black?logo=github)](https://github.com/Limman-qaidev)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?logo=researchgate)](https://researchgate.net/profile/Jonathan_Salgado_Nieto)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:salgado.n.jonathan@gmail.com)
