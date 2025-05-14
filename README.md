@@ -34,8 +34,10 @@
 ---
 
 ## 🔭 Pinned Projects  
+
 > *Work in progress – more to come!* <!-- Placeholders set expectations and invite revisit :contentReference[oaicite:6]{index=6} -->
 <div align="left">
+
 - Coming Soon: **Plant Species Classifier**  
 - Coming Soon: **Momentum Trading Algo**  
 - Coming Soon: **GDPR RAG Chatbot**  
@@ -51,8 +53,8 @@
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python Badge" height="30" />
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow" alt="TensorFlow Badge" height="30" />
   <img src="https://img.shields.io/badge/PyTorch-1.x-red?logo=pytorch" alt="PyTorch Badge" height="30" />
-  <img src="https://img.shields.io/badge/Docker-24.x-blue?logo=docker" alt="Docker Badge" height="30" />
-  <img src="https://img.shields.io/badge/Kubernetes-1.27-blue?logo=kubernetes" alt="Kubernetes Badge" height="30" />
+  <img src="https://img.shields.io/badge/NumPy-1.23-blue?logo=numpy" alt="NumPy Badge" height="30" />
+  <img src="https://img.shields.io/badge/Pandas-1.5-blue?logo=pandas" alt="Pandas Badge" height="30" />
 </div> <!-- Badges provide a clean visual summary of your tech stack  -->
 
 ---
@@ -67,8 +69,4 @@
   </a>
 </div> <!-- Clean, uniform badges for contact links improve UX :contentReference[oaicite:8]{index=8} -->
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zzetao/awesome-github-profile-readme/master/assets/undraw/undraw_coding_cats.svg" alt="Coding Illustration" height="200" />
-</div> <!-- A friendly illustration adds personality without clutter :contentReference[oaicite:9]{index=9} -->
