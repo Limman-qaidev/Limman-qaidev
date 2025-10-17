@@ -1,35 +1,46 @@
-<!-- ===== Professional Portfolio README — Limman-qaidev ===== -->
+<!-- Animated Header -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving hand animation" />
+</div>
 
-<h1 align="center">Jonathan Salgado Nieto</h1>
-<p align="center">
-  <em>Model Risk & Market Risk Specialist · AI/ML & Quantitative Developer</em><br/>
-  <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">LinkedIn</a> ·
-  <a href="mailto:salgado.n.jonathan@gmail.com">Email</a>
-</p>
+<div align="center">
+  <!-- Contact Badges -->
+  <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:salgado.n.jonathan@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Email logo" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Limman-qaidev.Limman-qaidev" alt="Visitor Count" />
+</div>
+
+---
+
+<h2 align="center">Hi 👋, I’m Jonathan Salgado Nieto</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-%F0%9F%A7%A1-red?logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/FastAPI-0.x-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Polars-DataFrame-lightgrey?logo=python" alt="Polars"/>
+  <em>Model Risk & Market Risk Specialist @ Banco Santander<br/>
+  AI · Quantitative Modeling · Machine Learning · Automation</em>
 </p>
 
 ---
 
-## 🎯 Purpose
-
-This portfolio gathers **AI-driven, quantitative and risk-modeling projects**, all written in clean, typed Python 3.11 with modular design, testing, and CI/CD.  
-The goal is to demonstrate production-ready code, reproducible research, and cross-domain applications of machine learning in finance and data science.
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limman-qaidev&show_icons=true&theme=dracula" height="130" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Limman-qaidev&layout=compact&theme=dracula" height="130" alt="Top Languages" />
+</div>
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Featured Projects  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" height="120" alt="Projects animation" />
+</div>
 
 ### 🧩 [copula-lab](https://github.com/Limman-qaidev/copula-lab) — *Probabilistic Dependence Modeling Lab*
-
-Modeling, calibration (PMLE / IFM / CvM), simulation and diagnostics of statistical copulas.
+A full laboratory for **dependence modeling** with statistical copulas — combining rigorous math, diagnostics, and reproducibility.
 
 <p>
   <a href="https://github.com/Limman-qaidev/copula-lab/actions/workflows/ci.yml"><img src="https://github.com/Limman-qaidev/copula-lab/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
@@ -37,79 +48,82 @@ Modeling, calibration (PMLE / IFM / CvM), simulation and diagnostics of statisti
   <a href="https://github.com/Limman-qaidev/copula-lab/stargazers"><img src="https://img.shields.io/github/stars/Limman-qaidev/copula-lab?style=social" alt="Stars"/></a>
 </p>
 
-- Parameter estimation (Gaussian, Student-t, Archimedean families).  
-- Rosenblatt PIT, Kolmogorov–Smirnov and Cramér–von-Mises GoF tests.  
-- Reproducible notebooks and figure generation pipeline under `/docs/assets/figures`.
+- Implements **PMLE**, **IFM**, and **Cramér–von Mises** calibration for Gaussian, Student-t, and Archimedean copulas.  
+- Diagnostic suite: Rosenblatt PIT, KS/CvM GoF tests, tail-dependence metrics.  
+- Reproducible notebooks and figure pipelines under `/docs/assets/figures`.  
 
 ---
 
 ### 🧠 [facesuite](https://github.com/Limman-qaidev/facesuite) — *Face Recognition & Clustering System*
-
 End-to-end facial embedding and clustering pipeline (InsightFace + DBSCAN/Agglomerative).
 
 <p>
   <a href="https://github.com/Limman-qaidev/facesuite/actions/workflows/ci.yml"><img src="https://github.com/Limman-qaidev/facesuite/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <a href="https://github.com/Limman-qaidev/facesuite/tree/main/docs"><img src="https://img.shields.io/badge/docs-available-informational" alt="Docs"/></a>
-  <a href="https://github.com/Limman-qaidev/facesuite/stargazers"><img src="https://img.shields.io/github/stars/Limman-qaidev/facesuite?style=social" alt="Stars"/></a>
 </p>
 
-- Embedding generation, clustering comparison, and LFW evaluation.  
-- Streamlit/Gradio demo for visualizing clusters and outliers.  
+- Embedding extraction, clustering comparison, and LFW evaluation.  
+- Streamlit/Gradio demo for interactive cluster visualization.  
 
 ---
 
 ### 💬 [financial_qa_chatbot](https://github.com/Limman-qaidev/financial_qa_chatbot) — *Financial RAG Chatbot*
-
-Retrieval-Augmented Generation assistant for regulation and market analytics.
+AI assistant for regulatory and financial question-answering (FinBERT + LangChain).
 
 <p>
   <a href="https://github.com/Limman-qaidev/financial_qa_chatbot/actions/workflows/ci.yml"><img src="https://github.com/Limman-qaidev/financial_qa_chatbot/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <a href="https://github.com/Limman-qaidev/financial_qa_chatbot/tree/main/docs"><img src="https://img.shields.io/badge/docs-available-informational" alt="Docs"/></a>
-  <a href="https://github.com/Limman-qaidev/financial_qa_chatbot/stargazers"><img src="https://img.shields.io/github/stars/Limman-qaidev/financial_qa_chatbot?style=social" alt="Stars"/></a>
 </p>
 
-- PDF/HTML ingestion of CRR / RTS / EBA guidelines.  
-- Vector-store retrieval (FAISS / Chroma) + LLM generation (FinBERT / Llama).  
-- FastAPI backend + Streamlit chat UI with citations and latency metrics.
+- Retrieval-Augmented Generation (RAG) pipeline for CRR/RTS/EBA documentation.  
+- FinBERT and Llama models integrated via FastAPI backend.  
+- Streamlit chat UI with citation tracking and latency metrics.  
 
 ---
 
-## 📚 Research & Teaching
+## 🧠 Research & Teaching  
+
+> *Exploratory labs and technical notebooks on statistical learning, calibration, and deep neural networks.*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="110" alt="Learning animation"/>
+</div>
 
 ### 🧮 [deep-learning-foundations](https://github.com/Limman-qaidev/deep-learning-foundations)
-
-Structured theoretical notes and executable notebooks covering backpropagation, optimization dynamics, and regularization.
+Interactive theoretical notebooks covering **forward/backpropagation**, optimization dynamics, and regularization in deep learning.
 
 <p>
   <a href="https://github.com/Limman-qaidev/deep-learning-foundations/actions/workflows/ci.yml"><img src="https://github.com/Limman-qaidev/deep-learning-foundations/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <a href="https://github.com/Limman-qaidev/deep-learning-foundations/tree/main/notebooks"><img src="https://img.shields.io/badge/docs-notebooks-informational" alt="Docs"/></a>
 </p>
 
+- Gradient flow and optimization visualizations.  
+- Executable notebooks with exercises for reproducible learning.  
+
+---
+
 ### 🔗 [copula-lab](https://github.com/Limman-qaidev/copula-lab) — *Copula Calibration & Dependence Modeling*
+A technical research lab focusing on **dependence structures** and **statistical copulas**, with rich diagnostics and visual outputs.
 
-An advanced research lab for **dependence modeling** using statistical copulas, covering parameter estimation, simulation, and goodness-of-fit diagnostics.
+<div align="center">
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" height="100" alt="Copula animation"/>
+</div>
 
-<p>
-  <a href="https://github.com/Limman-qaidev/copula-lab/actions/workflows/ci.yml"><img src="https://github.com/Limman-qaidev/copula-lab/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
-  <a href="https://github.com/Limman-qaidev/copula-lab/tree/main/docs"><img src="https://img.shields.io/badge/docs-available-informational" alt="Docs"/></a>
-  <a href="https://github.com/Limman-qaidev/copula-lab/stargazers"><img src="https://img.shields.io/github/stars/Limman-qaidev/copula-lab?style=social" alt="Stars"/></a>
-</p>
-
-- Implements **Pseudo-MLE**, **IFM**, and **Cramér–von Mises** calibration for multiple copula families.  
-- Includes diagnostic notebooks (Rosenblatt PIT, KS/CvM tests, tail dependence).  
-- Fully reproducible with controlled seeds and figure export pipeline under `/docs/assets/figures/`.  
+- Implements **Pseudo-MLE**, **IFM**, and **Cramér–von Mises** calibration methods.  
+- Rosenblatt PIT, KS/CvM GoF tests, and tail-dependence analysis.  
+- Fully reproducible notebooks and figure exports under `/docs/assets/figures/`.  
 
 ---
 
 ## 🏦 Quantitative & Risk Projects
 
 ### [FRTB-DRC-SA](https://github.com/Limman-qaidev/FRTB-DRC-SA) — *Credit Risk Regulatory Engine*
-- Benchmark implementation of standardized credit-risk capital under Basel FRTB.  
-- Extended with ML explainability (SHAP / LIME) for stress-test interpretation.  
+- Standardized credit-risk capital (Basel FRTB) implementation.  
+- Extended with ML explainability (SHAP / LIME) for stress-testing.  
 
 ### [sens_calculator](https://github.com/Limman-qaidev/sens_calculator) — *PnL & Sensitivity Engine*
-- Sensitivity aggregation, VaR / ES estimation, and ML-based prediction.  
-- Designed for integration into PnL pipelines and risk dashboards.  
+- Sensitivity aggregation, VaR/ES estimation, and ML-based risk metrics.  
+- Designed for integration into portfolio analytics workflows.  
 
 ---
 
@@ -117,27 +131,50 @@ An advanced research lab for **dependence modeling** using statistical copulas, 
 
 ### [mail_tracking](https://github.com/Limman-qaidev/mail_tracking) — *Mail Analytics Automation*
 - Email tracking, parsing, and NLP sentiment analysis (DistilBERT / RoBERTa).  
-- Streamlit dashboard for KPI visualization and automated reporting.  
+- Streamlit dashboard for visual analytics and automation.  
 
 ---
 
-## 📊 GitHub Activity
+## 🔭 Pinned Projects  
+> *Work in progress – more to come!*  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Limman-qaidev&show_icons=true&theme=default" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Limman-qaidev&layout=compact&theme=default" height="130"/>
-</p>
+<div align="left">
+
+- 🚧 Coming Soon: **Plant Species Classifier**  
+- ⚙️ Coming Soon: **Momentum Trading Algo**  
+- 🧾 Coming Soon: **GDPR RAG Chatbot**  
+- 💬 Coming Soon: **BERT Sentiment Analysis**  
+- 🧠 Coming Soon: **Bias Detection in GPT-2**  
+- 📊 Coming Soon: **ML KPI Dashboard**
+
+</div>
 
 ---
 
-## 📫 Contact
 
-- **Website:** [jonathansalgadonieto.com](https://jonathansalgadonieto.com)  
-- **LinkedIn:** [jonathan-salgado-nieto-67a88b87](https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87)  
-- **Email:** [salgado.n.jonathan@gmail.com](mailto:salgado.n.jonathan@gmail.com)
+## 📊 GitHub Activity  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limman-qaidev&show_icons=true&theme=dracula" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Limman-qaidev&layout=compact&theme=dracula" height="130"/>
+</div>
 
 ---
 
-<sub>All projects are maintained under a unified engineering standard: strict typing, unit tests, modular architecture, CI/CD integration, and reproducible notebooks.</sub>
+## 📫 Connect with Me  
 
+<div align="center">
+  <a href="https://jonathansalgadonieto.com">
+    <img src="https://img.shields.io/badge/Website-jonathansalgadonieto.com-0A0A0A?style=for-the-badge" height="28" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-salgado-nieto-67a88b87">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" height="28" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:salgado.n.jonathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" height="28" alt="Email"/>
+  </a>
+</div>
 
+---
+
+<sub>All repositories follow a unified engineering standard: strict typing, testing, modular architecture, CI/CD integration, and reproducible research.</sub>
